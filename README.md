@@ -1,3 +1,7 @@
-- 👋 Hi, I’m @LakshnaaBJ
-- 👀 I’m interested in Electronics 
-- 🌱 I’m currently learning Verilog HDL, System Verilog
+# 👋 Hi, I'm **Lakshnaa**
+
+ Electronics & Computer Science Engineer | VIT Chennai  
+📚 1st Year Student |💡 Passionate about Research & Innovation  
+🔭 Currently working on: PCB Design (KiCad), Verilog  
+📫 **Connect with me:**  
+[LinkedIn][(https://www.linkedin.com/in/lakshnaabj/)]
