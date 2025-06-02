@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @LakshnaaBJ
+- 👀 I’m interested in Electronics 
+- 🌱 I’m currently learning Verilog HDL, System Verilog
